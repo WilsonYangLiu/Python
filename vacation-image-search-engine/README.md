@@ -1,0 +1,2 @@
+[用Python和OpenCV创建一个图片搜索引擎的完整指南](http://python.jobbole.com/80860/?sukey=f740b693ad416b27af3b04585965d977f9ff41875887ff3f986d59a7abcac8390ccc9a617aa0a3c24131713b6bfbbf83)
+[The complete guide to building an image search engine with Python and OpenCV](http://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/)
