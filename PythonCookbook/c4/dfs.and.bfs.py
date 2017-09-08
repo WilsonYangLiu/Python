@@ -1,7 +1,10 @@
+from __future__ import print_function
+
 #!/etc/bin/env python
 # -*- coding: utf-8 -*-
 #
-# reference: http://www.cnblogs.com/yupeng/p/3414736.html
+
+import os
 
 class Graph(object):
 	
